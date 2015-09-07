@@ -1,0 +1,3 @@
+add_library(Operations myaction.cpp)
+install (TARGETS Operations DESTINATION bin)
+install (FILES Operations.h DESTINATION include)
