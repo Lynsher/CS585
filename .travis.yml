@@ -1,15 +1,1 @@
 language: cpp
-
-compiler:
-  - gcc
-  - clang
-
-branches:
-  only:
-    - master
-
-notifications:
-  email: true
-
-os:
-  - linux Ubuntu 14.04
